@@ -1,0 +1,5 @@
+building a single neural network arch to predict a range of molecular properties :-
+
+-- helps in drug discovery maybe 
+-- helps in material design
+
