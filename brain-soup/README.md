@@ -1,5 +1,6 @@
 ## What is brain soup ?
-
-<img src="brain-soup.jpeg" style="height:200px">
-![](brain-soup.jpeg)
+<br>
+<p align="center">
+<img src="brain-soup.jpeg" alt="soup" width="600"/>
+</p>
 reading the research paper and writing about it on the go 
